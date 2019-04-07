@@ -78,8 +78,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-way.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "To see the world as it is and to love it<br>认清这个世界，然后爱它"
+sidebar-avatar: /img/avatar-way2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -103,10 +103,10 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "此处广告位招商",
+        href: "/"
     },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "233333",
+        href: "/"
     }
 ]
